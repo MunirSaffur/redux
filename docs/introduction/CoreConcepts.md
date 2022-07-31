@@ -17,7 +17,7 @@ Imagine your app’s state is described as a plain object. For example, the stat
     text: 'Exercise',
     completed: false
   }],
-  visibilityFilter: 'SHOW_COMPLETED'
+  visibilityFilter: 'SHOW_COMPLETED
 }
 ```
 
